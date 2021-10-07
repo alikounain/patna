@@ -1,0 +1,2 @@
+echo "Enter Your Name"
+read name
